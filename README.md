@@ -90,8 +90,8 @@ Example row:
 ## Results
 
 On my dataset:
-- Gain Ratio tree achieved ~XX% F1 on test data
-- Gini Index tree achieved ~YY% F1 on test data
+- Gain Ratio tree achieved ~0.84 F1 on test data
+- Gini Index tree achieved ~0.78 F1 on test data
 
 (Replace XX/YY with your actual numbers after you run it.)
 
@@ -112,7 +112,3 @@ Future improvements might include:
 This project is for educational purposes. Feel free to use or adapt with attribution.
 
 ---
-
-## Contact
-
-If you have questions, you can reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or email me at your.email@example.com.
