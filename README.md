@@ -53,8 +53,8 @@ Key features:
 Clone the repository and install Python 3 if you don’t already have it:
 
 ```bash
-git clone https://github.com/yourusername/decision-tree-classifier.git
-cd decision-tree-classifier
+git clone https://github.com/Polarisfour/DecisionTree.git
+cd DecisionTree
 ```
 
 Place your `training.data` and `test.data` files in the same directory as `decisiontree.py`.
