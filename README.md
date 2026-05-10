@@ -57,7 +57,7 @@ git clone https://github.com/yourusername/decision-tree-classifier.git
 cd decision-tree-classifier
 ```
 
-Place your `training.data` and `test.data` files in the same directory as `decision_tree.py`.
+Place your `training.data` and `test.data` files in the same directory as `decisiontree.py`.
 
 ---
 
@@ -66,7 +66,7 @@ Place your `training.data` and `test.data` files in the same directory as `decis
 Run the script directly:
 
 ```bash
-python decision_tree.py
+python decisiontree.py
 ```
 
 You’ll see printed F1 scores for each validation set, plus the best validation ranges for Gain Ratio and Gini Index.
