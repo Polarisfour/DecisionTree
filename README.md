@@ -85,17 +85,6 @@ Example row:
 5.3,low,yes,+
 ```
 
----
-
-## Results
-
-On my dataset:
-- Gain Ratio tree achieved ~0.84 F1 on test data
-- Gini Index tree achieved ~0.78 F1 on test data
-
-(Replace XX/YY with your actual numbers after you run it.)
-
----
 
 ## Project Status
 
