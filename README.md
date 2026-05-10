@@ -25,7 +25,7 @@ Key features:
 ---
 
 ## Files
-- `decision_tree.py` – main code with decision tree implementation and evaluation
+- `decisiontree.py` – main code with decision tree implementation and evaluation
 - `training.data` – training dataset (expected format: CSV with features and +/– class labels)
 - `test.data` – test dataset (same format)
 
